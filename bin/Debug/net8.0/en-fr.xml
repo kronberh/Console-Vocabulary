@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>excuse me</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>excusez-moi</Spelling>
+          <Transcribtion>ɛkskyze-mwa</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>m'excuser</Spelling>
+          <Transcribtion>mɛkskyze</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>good evening</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bonne soirée</Spelling>
+          <Transcribtion>bɔnə swaɾeə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bonsoir</Spelling>
+          <Transcribtion>bõswaɾ</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>good morning</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bonjour</Spelling>
+          <Transcribtion>bõʒuɾ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bonne journée</Spelling>
+          <Transcribtion>bɔnə ʒuɾneə</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>goodbye</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>adieu</Spelling>
+          <Transcribtion>adjø</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>au revoir</Spelling>
+          <Transcribtion>o ɾəvwaɾ</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>hello</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>allô</Spelling>
+          <Transcribtion>alo</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bonjour</Spelling>
+          <Transcribtion>bõʒuɾ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bonsoir</Spelling>
+          <Transcribtion>bõswaɾ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>coucou</Spelling>
+          <Transcribtion>kuku</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>salut</Spelling>
+          <Transcribtion>saly</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>I'm sorry</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>désolé</Spelling>
+          <Transcribtion>dezɔle</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>désolée</Spelling>
+          <Transcribtion>dezɔleə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Je suis désolé</Spelling>
+          <Transcribtion>ʒə sɥi dezɔle</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Je suis désolée</Spelling>
+          <Transcribtion>ʒə sɥi dezɔleə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pardon</Spelling>
+          <Transcribtion>paɾdõ</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>no</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>non</Spelling>
+          <Transcribtion>nõ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pas</Spelling>
+          <Transcribtion>pa</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>please</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>allez</Spelling>
+          <Transcribtion>ale</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>contenter</Spelling>
+          <Transcribtion>kõtɑ̃te</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>faire plaisir</Spelling>
+          <Transcribtion>fɛɾə pl(e)ziɾ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Je t'en prie</Spelling>
+          <Transcribtion>ʒə tɑ̃ pɾjə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>plaire</Spelling>
+          <Transcribtion>plɛɾə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ravir</Spelling>
+          <Transcribtion>ɾaviɾ</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>s'il vous plait</Spelling>
+          <Transcribtion>sil vu ple</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>s'il vous plaît</Spelling>
+          <Transcribtion>sil vu ple</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>satisfaire</Spelling>
+          <Transcribtion>satisfɛɾə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>séduire</Spelling>
+          <Transcribtion>sedɥiɾə</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>see you soon</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>a bientôt</Spelling>
+          <Transcribtion>a bjɑ̃to</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>à bientôt</Spelling>
+          <Transcribtion>a bjɑ̃to</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>a très bientôt</Spelling>
+          <Transcribtion>a tɾe bjɑ̃to</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>thank you</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>merci</Spelling>
+          <Transcribtion>mɛɾsi</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>remerciement</Spelling>
+          <Transcribtion>ɾəmɛɾsjəmə</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>yes</Spelling>
+        <Transcribtion />
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>certes</Spelling>
+          <Transcribtion>sɛɾtə</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>oui</Spelling>
+          <Transcribtion>wi</Transcribtion>
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>si</Spelling>
+          <Transcribtion>si</Transcribtion>
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+</Vocabulary>

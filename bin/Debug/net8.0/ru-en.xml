@@ -1,0 +1,5019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>адвокат</Spelling>
+        <Transcribtion>advokat</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>advocate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>associate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>attorney</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>attorney-at-law</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>barrister</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>counsel</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>counsellor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>counselor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>jurist</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lawyer</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>legal counsel</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>solicitor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>аэропорт</Spelling>
+        <Transcribtion>aeroport</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>airport</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>бабушка</Spelling>
+        <Transcribtion>babushka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>gran</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grandma</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grandmother</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>granny</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>банан</Spelling>
+        <Transcribtion>banan</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>banana</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>белый</Spelling>
+        <Transcribtion>belyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>whit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>white</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>whitish</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>блины</Spelling>
+        <Transcribtion>bliny</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>blinis</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>crepes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>crêpes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pancakes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>больница</Spelling>
+        <Transcribtion>bol'nica</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>hospital</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>infirmary</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>большой</Spelling>
+        <Transcribtion>bol'shoj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>big</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bulky</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>extensive</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grand</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>great</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>high</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>huge</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>keen</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>large</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>serious</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>significant</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sizable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sizeable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>spacious</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>substantial</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tall</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wide</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>бомба</Spelling>
+        <Transcribtion>bomba</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bomb</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bombshell</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>борщ</Spelling>
+        <Transcribtion>borshh</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>borsch</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>borscht</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>брат</Spelling>
+        <Transcribtion>brat</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>brother</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fraternal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fraternity</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fraternity brother</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>friar</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вам нравится тут?</Spelling>
+        <Transcribtion>Vam nravitsja tut?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you like it here?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you like this place?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You like it here?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You like this place?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>вкусный</Spelling>
+        <Transcribtion>vkusnyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>delicate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>delicious</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>gourmet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>palatable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>savory</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>savoury</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>scrumptious</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tasteful</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tasty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yummy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>вода</Spelling>
+        <Transcribtion>voda</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>water</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>waters</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>водка</Spelling>
+        <Transcribtion>vodka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>vodka</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>врач</Spelling>
+        <Transcribtion>vrach</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>clinician</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>doc</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>doctor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>medical doctor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>medical practitioner</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>physician</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>practitioner</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>surgeon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Всё в порядке.</Spelling>
+        <Transcribtion>Vsjo v porjadke.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I'm fine.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>It's all right.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>It's fine.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>It's okay.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>вход</Spelling>
+        <Transcribtion>vhod</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>admission</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>admittance</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>doorway</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>entrance</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>entry</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>gateway</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>in</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ingress</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>inlet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>input</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>log-in</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>log-on</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>orifice</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>portal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы говорите по-английски?</Spelling>
+        <Transcribtion>Vy govorite po-anglijski?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you speak English?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You speak English?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы говорите по-русски?</Spelling>
+        <Transcribtion>Vy govorite po-russki?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you speak Russian?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You speak Russian?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы давно тут?</Spelling>
+        <Transcribtion>Vy davno tut?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Have you been here long?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>How long have you been here?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You've been here a long time?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You've been here long?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы можете говорить медленнее?</Spelling>
+        <Transcribtion>Vy mozhete govorit' medlennee?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Can you speak more slowly?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Can you speak slower?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Can you talk any slower?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Can you talk slower?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы понимаете?</Spelling>
+        <Transcribtion>Vy ponimaete?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you realize that?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you realize?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you understand?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You understand?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Вы студент?</Spelling>
+        <Transcribtion>Vy student?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Are you a student?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You a student?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You are a student?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You're a student?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>выход</Spelling>
+        <Transcribtion>vyhod</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>appearance</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>disconnection</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>egress</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>escape</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>exit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>exit point</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>gate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>issuance</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>logout</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outlet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>output</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>publication</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>recourse</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>recovery</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>release</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>seepage</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>solution</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>way out</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>withdrawal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yield</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yielding</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>где</Spelling>
+        <Transcribtion>gde</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>where</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>whereabout</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Где туалет?</Spelling>
+        <Transcribtion>Gde tualet?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Where is the bathroom?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where's the bathroom?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where's the restroom?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where's the toilet?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>говядина</Spelling>
+        <Transcribtion>govjadina</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>beef</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>горячий</Spelling>
+        <Transcribtion>gorjachij</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>ardent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fervent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hot</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>passionate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>warm</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>zealous</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>гостинница</Spelling>
+        <Transcribtion>gostinitsa</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>hotel</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>inn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lodge</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>да</Spelling>
+        <Transcribtion>da</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>and</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>but</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>on earth</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yea</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yeah</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yeas</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>девушка</Spelling>
+        <Transcribtion>devushka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>adolescent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>female</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>girl</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>girlfriend</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lady</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lass</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>maid</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>maiden</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>miss</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>young woman</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>дедушка</Spelling>
+        <Transcribtion>dedushka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>granddad</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>granddaddy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grandfather</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grandpa</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>до свидания</Spelling>
+        <Transcribtion>do svidanija</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bye</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bye-bye</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>good-bye</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>goodbye</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>до скорого</Spelling>
+        <Transcribtion>do skorogo</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>see you later</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>see you soon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>добро пожаловать</Spelling>
+        <Transcribtion>dobro pozhalovat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>welcome</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>доброе утро</Spelling>
+        <Transcribtion>dobroe utro</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>good morning</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>morning</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>добрый вечер</Spelling>
+        <Transcribtion>dobryj vecher</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>evening</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>good evening</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>добрый день</Spelling>
+        <Transcribtion>dobryj den'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>good afternoon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>good day</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hello</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>kind afternoon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>домашнее животное</Spelling>
+        <Transcribtion>domashnee zhivotnoe</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>domestic animal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>household pet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pet animal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>дочь</Spelling>
+        <Transcribtion>doch</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>daughter</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>daughters</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>daughtership</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>друзья</Spelling>
+        <Transcribtion>druz'ja</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>buddies</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>friends</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mates</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pals</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>думать</Spelling>
+        <Transcribtion>dumat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>assume</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>believe</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>consider</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>contemplate</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ponder</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>reckon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>suppose</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>think</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>think about</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>think of</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Есть ли у Вас хобби?</Spelling>
+        <Transcribtion>Est' li u Vas hobbi?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you have a hobby?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you have any hobbies?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you have hobbies?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Have you got any hobbies?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>жаркий</Spelling>
+        <Transcribtion>zharkij</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>fiery</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>flaming</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>heated</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hot</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sticky</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>warm</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>жёлтый</Spelling>
+        <Transcribtion>zhjoltyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>yellow</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>жить</Spelling>
+        <Transcribtion>zhit'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bide</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>dwell</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>exist</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>inhabit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>live</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lively</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>make a living</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>reside</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>stay</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>закрыто</Spelling>
+        <Transcribtion>zakryto</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>barred</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>close</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>closed</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>enclosed</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>latched</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>locked</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>locked up</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>restricted</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sealed</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>shut</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>shut down</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>здравствуйте</Spelling>
+        <Transcribtion>zdravstvujte</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>hello</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hi</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>зелёный</Spelling>
+        <Transcribtion>zeljonyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>green</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>verdant</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>знать</Spelling>
+        <Transcribtion>znat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>be aware</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>be aware of</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>keep in mind</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>know</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>nobility</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>quality</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>recognize</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>играть</Spelling>
+        <Transcribtion>igrat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>act</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>gamble</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>perform</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>play</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Из какого Вы штата?</Spelling>
+        <Transcribtion>Iz kakogo Vy shtata?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>What state are you from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What state you from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What state you're from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Which state are you from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>извините</Spelling>
+        <Transcribtion>izvinite</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>apologies</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>apologize</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>excuse me</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pardon me</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sorry</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>икра</Spelling>
+        <Transcribtion>ikra</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>calf</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>caviar</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>caviare</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>eggs</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>roe</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>spawn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Как Вас зовут?</Spelling>
+        <Transcribtion>Kak Vas zovut?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Uh, what's your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What is your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What was your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Как дела?</Spelling>
+        <Transcribtion>Kak dela?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>How's it goin'?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>How's it going?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's up, man?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's up?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Как сказать ... по-русски?</Spelling>
+        <Transcribtion>Kak skazat' ... po-russki?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>How do you say ... in Russian?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Как тебя зовут?</Spelling>
+        <Transcribtion>Kak tebja zovut?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Uh, what's your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What is your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's your name?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Как ты?</Spelling>
+        <Transcribtion>Kak ty?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Are you okay?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>How are you doing?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>How are you?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>How you doing?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Какая у Вас профессия?</Spelling>
+        <Transcribtion>Kakaja u Vas professija?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>What is your occupation?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's your occupation?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's your profession?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>картофель</Spelling>
+        <Transcribtion>kartofel'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>potato</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>potatoes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Кем Вы работаете?</Spelling>
+        <Transcribtion>Kem Vy rabotaete?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>What do you do for a living?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What do you do?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What is your job?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's your job?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>класс</Spelling>
+        <Transcribtion>klass</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>category</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>class</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>classroom</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>form</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>grade</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>group</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>quality</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>rating</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tier</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>type</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>колбаса</Spelling>
+        <Transcribtion>kolbasa</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>sausage</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sausages</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>кофе</Spelling>
+        <Transcribtion>kofe</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>coffe</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>coffee</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>coffees</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>кошка</Spelling>
+        <Transcribtion>koshka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cat</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>feline</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>красивый</Spelling>
+        <Transcribtion>krasivyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>attractive</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>beautiful</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fine</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>good-looking</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>graceful</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>handsome</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lovely</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>nice</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>personable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pretty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>красный</Spelling>
+        <Transcribtion>krasnyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>red</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ruby</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>кролик</Spelling>
+        <Transcribtion>krolik</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bunny</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>rabbit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>круто</Spelling>
+        <Transcribtion>kruto</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>abruptly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>awesome</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cool</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>neat</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sharp</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>steeply</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Кто это?</Spelling>
+        <Transcribtion>Kto eto?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Who is it?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Who is that?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Who is this?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Who's that?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>курица</Spelling>
+        <Transcribtion>kurica</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>chicken</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fowl</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hen</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>лук</Spelling>
+        <Transcribtion>luk</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bow</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>onion</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>onions</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>любить</Spelling>
+        <Transcribtion>ljubit'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>favor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>heart</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>like</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>love</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>макароны</Spelling>
+        <Transcribtion>makarony</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>macaroni</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pasta</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>маленький</Spelling>
+        <Transcribtion>malen'kij</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>baby</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>little</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>midget</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>minuscule</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>petit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>petite</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pony</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>small</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tiny</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wee</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>мама</Spelling>
+        <Transcribtion>mama</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>mama</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mom</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mommy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mother</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mum</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>масло</Spelling>
+        <Transcribtion>maslo</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>butter</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>oil</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>меня зовут</Spelling>
+        <Transcribtion>menja zovut</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>my name is</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>my name's</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>метро</Spelling>
+        <Transcribtion>metro</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>meter</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>metro</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>subway</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>underground</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>мобильник</Spelling>
+        <Transcribtion>mobil'nik</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cell</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cell phone</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cellphone</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>mobile</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>может быть</Spelling>
+        <Transcribtion>mozhet byt'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>could be</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>may be</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>maybe</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>might be</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>perhaps</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>possibly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>молоко</Spelling>
+        <Transcribtion>moloko</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>dairy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>milk</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>milky</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>морковь</Spelling>
+        <Transcribtion>morkov'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>carrot</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>carrots</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>мясо</Spelling>
+        <Transcribtion>mjaso</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>flesh</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>meat</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>meats</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>нет</Spelling>
+        <Transcribtion>net</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>nay</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>no</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>nope</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>not</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>off</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>новый</Spelling>
+        <Transcribtion>novyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>another</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fresh</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>modern</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>new</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>new one</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>novel</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>seminal</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>updated</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>овощи</Spelling>
+        <Transcribtion>ovoshhi</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>vegetables</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>veggies</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Один билет, пожалуйста.</Spelling>
+        <Transcribtion>Odin bilet, pozhaluysta.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>One ticket, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Uh, one ticket, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>оранжевый</Spelling>
+        <Transcribtion>oranzhevyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>orange</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>открыто</Spelling>
+        <Transcribtion>otkryto</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>blatantly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>candid</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>candidly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>clear</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>disclosed</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>discovered</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>downright</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>expansive</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>explicit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>frank</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>freely</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hospitable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>low</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>open</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>opened</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>openly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outdoor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outer</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outright</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outspoken</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>outwardly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>overt</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>overtly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>patent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>public</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>publicly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>receptive</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>straight</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>transparent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>transparently</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>unclassified</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>uncovered</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>unlocked</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>unveiled</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>upfront</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Откуда Вы?</Spelling>
+        <Transcribtion>Otkuda Vy?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Where are you from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where do you come from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where you from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Where you're from?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>очень приятно</Spelling>
+        <Transcribtion>ochen' prijatno</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>it's a pleasure</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>it's my pleasure</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>папа</Spelling>
+        <Transcribtion>papa</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>dad</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>daddy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>father</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>papa</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>парень</Spelling>
+        <Transcribtion>paren'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bastard</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>boy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>boyfriend</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>chap</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>dude</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fellow</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>guy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>young man</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>пельмени</Spelling>
+        <Transcribtion>pel'meni</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>dumplings</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>meat dumplings</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>пироги</Spelling>
+        <Transcribtion>pirogi</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cakes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>canoe</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pastries</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pies</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pirogue</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tarts</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>писать</Spelling>
+        <Transcribtion>pisat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>compose</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pee</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pen</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>piss</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>portray</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>scribble</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>write</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>плохой</Spelling>
+        <Transcribtion>plohoj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>amiss</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bad</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>evil</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>inferior</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>low</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>miserable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>poor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>shady</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>shitty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sour</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wicked</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wretched</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wrong</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Повторите, пожалуйста.</Spelling>
+        <Transcribtion>Povtorite, pozhalujsta.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Can you repeat that, please?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Could you repeat that, please?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Repeat, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Say again, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>пожалуйста</Spelling>
+        <Transcribtion>pozhalujsta</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>please</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>you're welcome</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>пожар</Spelling>
+        <Transcribtion>pozhar</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>blaze</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>conflagration</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fire</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>inflammation</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wildfire</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>пока</Spelling>
+        <Transcribtion>poka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bye</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>so far</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>while</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>yet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>полиция</Spelling>
+        <Transcribtion>policija</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>police</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>police authority</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>police force</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>policemen</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>policing</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Помедленнее, пожалуйста.</Spelling>
+        <Transcribtion>Pomedlennee, pozhalujsta.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Slow down, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Slow it down, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Slowly, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>помидор</Spelling>
+        <Transcribtion>pomidor</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>tomato</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>помогите</Spelling>
+        <Transcribtion>pomogite</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>assist</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>help</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>help me</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>help me out</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>преподаватель</Spelling>
+        <Transcribtion>prepodavatel'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>academic</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>coach</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>educator</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>faculty member</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>instructor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lecturer</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>professor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>teacher</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>trainer</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tutor</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>привет</Spelling>
+        <Transcribtion>privet</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cheers</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hello</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hey</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hi</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Приятно с Вами познакомиться.</Spelling>
+        <Transcribtion>Prijatno s Vami poznakomit'sja.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>It's nice to meet you.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Nice to meet you.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Pleasure to meet you.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>простите</Spelling>
+        <Transcribtion>prostite</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>excuse me</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm sorry</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pardon</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pardon me</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>птица</Spelling>
+        <Transcribtion>ptica</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>bird</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>birder</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fowl</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>poultry</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>ресторан</Spelling>
+        <Transcribtion>restoran</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>diner</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>restaurant</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>родители</Spelling>
+        <Transcribtion>roditdeli</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>parent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>parents</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>розовый</Spelling>
+        <Transcribtion>rozovyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>pink</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>rose</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>rosy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>рыба</Spelling>
+        <Transcribtion>ryba</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>fish</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fishes</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>салат</Spelling>
+        <Transcribtion>salat</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>lettuce</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>salad</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>salads</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сахар</Spelling>
+        <Transcribtion>sahar</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>glucose</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sugar</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>семья</Spelling>
+        <Transcribtion>sem'ja</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>family</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>household</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сестра</Spelling>
+        <Transcribtion>sestra</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>nurse</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sis</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sister</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>симпатичный</Spelling>
+        <Transcribtion>cimpatichnyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>beautiful</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cuddly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cute</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>handsome</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>likable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>likeable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>neat</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>nice</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pleasant</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pretty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sympathetic</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tasty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>синий</Spelling>
+        <Transcribtion>sinij</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>blu</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>blue</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bluish</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>dark blue</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>слушать</Spelling>
+        <Transcribtion>slushat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>hear</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>listen</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>listen to</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>listen up</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сметана</Spelling>
+        <Transcribtion>smetana</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cream</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sour cream</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>смотреть</Spelling>
+        <Transcribtion>smotret'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>gaze</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>look</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>look over</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>see</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>view</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>watch</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>собака</Spelling>
+        <Transcribtion>sobaka</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>canine</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>dog</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сок</Spelling>
+        <Transcribtion>sok</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>juice</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>juicing</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sap</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>соль</Spelling>
+        <Transcribtion>sol'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>salt</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>спасибо</Spelling>
+        <Transcribtion>spasibo</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>thank you</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>thanks</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Спасибо большое.</Spelling>
+        <Transcribtion>Spasibo bol'shoe.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Many thanks.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Thank you so much.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Thank you very much.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Thanks a lot.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Thanks very much.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>спать</Spelling>
+        <Transcribtion>spat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>asleep</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bed</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>go to sleep</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sleep</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>slumber</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>спокойной ночи</Spelling>
+        <Transcribtion>spokojnoj nochi</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>good night</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>goodnight</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>старый</Spelling>
+        <Transcribtion>staryj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>age-old</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>aged</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ancient</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>legacy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>old</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>older</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>used</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>vintage</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>worn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>стой</Spelling>
+        <Transcribtion>stoj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>rack</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>stall</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>stand</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>stead</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Счёт, пожалуйста.</Spelling>
+        <Transcribtion>Schot, pozhaluysta.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Bill, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Check, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>The bill, please.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сын</Spelling>
+        <Transcribtion>syn</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>boy</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sire</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>son</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>сыр</Spelling>
+        <Transcribtion>syr</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cheese</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cheesecake</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cheeses</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cheesus</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>такси</Spelling>
+        <Transcribtion>taksi</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cab</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cabs</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>dachshund</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>taxi</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>taxi cab</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>taxicab</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>туалет</Spelling>
+        <Transcribtion>tualet</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>cloakroom</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>lavatory</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>loo</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>place</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>restroom</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>toilet</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>toilet room</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>toilette</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>washroom</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>WC</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>У Вас есть меню на английском?</Spelling>
+        <Transcribtion>U vas yest' menyu na angliyskom?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you have a menu in English?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you have menus in English?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you have the menu in English?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>У тебя есть домашнее животное?</Spelling>
+        <Transcribtion>U tebja est' domashnee zhivotnoe?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>Do you have a pet?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Do you own a pet?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Have you got a pet?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>You have a pet?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>фрукт</Spelling>
+        <Transcribtion>frukt</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>fruit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>хлеб</Spelling>
+        <Transcribtion>hleb</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>baked bread</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>bread</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>corn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>loaves</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>холодный</Spelling>
+        <Transcribtion>holodnyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>chilly</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cold</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>cool</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>distant</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>frigid</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>frosty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>iced</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>indifferent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>хороший</Spelling>
+        <Transcribtion>horoshij</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>decent</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>fine</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>good</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>great</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>nice</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>pretty</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>well</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>хотеть</Spelling>
+        <Transcribtion>hotet'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>crave</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>desire</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>intend</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>like</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>want</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>wish</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>чай</Spelling>
+        <Transcribtion>chaj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>chai</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tea</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>teas</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tee</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>tipple</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>черепаха</Spelling>
+        <Transcribtion>cherepaha</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>tortoise</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>turtle</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>чёрный</Spelling>
+        <Transcribtion>chjornyj</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>black</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>ebony</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>sable</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>чёрный перец</Spelling>
+        <Transcribtion>chjornyj perec</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>black pepper</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>чёрт</Spelling>
+        <Transcribtion>chjort</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>damn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>darn</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>devil</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>hell</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>shit</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>читать</Spelling>
+        <Transcribtion>chitat'</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>read</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>recite</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Что Вы рекомендуете?</Spelling>
+        <Transcribtion>Chto vy rekomenduyete?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>What are you recommending?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What do you recommend?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What is your recommendation?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What would you recommend?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Что это?</Spelling>
+        <Transcribtion>Chto eto?</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>What is it?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What is this?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's that?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>What's this?</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>это</Spelling>
+        <Transcribtion>eto</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>it</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>it's</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>that</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>that's</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>this</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>я</Spelling>
+        <Transcribtion>ja</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я болею.</Spelling>
+        <Transcribtion>Ja boleju.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I am sick.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm ill.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm sick.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I've been sick.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я играю в баскетбол.</Spelling>
+        <Transcribtion>Ja igraju v basketbol.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I play basketball.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm a basketball player.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm playing basketball.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>я из</Spelling>
+        <Transcribtion>ja iz</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I am from</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm from</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я катаюсь на лыжах.</Spelling>
+        <Transcribtion>Ja katajus' na lyzhah.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I go skiing.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I ski.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm a skier.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm skiing.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я люблю путешествовать.</Spelling>
+        <Transcribtion>Ja ljublju puteshestvovat'.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I like to travel.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I like traveling.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I love to travel.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I love traveling.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я не знаю.</Spelling>
+        <Transcribtion>Ja ne znaju.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I don't know about that.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I don't know, man.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I don't know.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>Uh, I don't know.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я не могу.</Spelling>
+        <Transcribtion>Ja ne mogu.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I can't do it.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I can't do that.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I can't do this.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I can't.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я не понимаю.</Spelling>
+        <Transcribtion>Ja ne ponimaju.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I do not understand.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I don't get it.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I don't understand it.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I don't understand.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я хочу есть.</Spelling>
+        <Transcribtion>Ja hochu est'.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I am hungry.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm hungry.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm starving.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>Я хочу пить.</Spelling>
+        <Transcribtion>Ja hochu pit'.</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>I am thirsty.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+        <ForeignWord>
+          <Spelling>I'm thirsty.</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+  <Word>
+    <Original>
+      <ForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Spelling>яблоко</Spelling>
+        <Transcribtion>jabloko</Transcribtion>
+      </ForeignWord>
+    </Original>
+    <Trandlation>
+      <ArrayOfForeignWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ForeignWord>
+          <Spelling>apple</Spelling>
+          <Transcribtion />
+        </ForeignWord>
+      </ArrayOfForeignWord>
+    </Trandlation>
+  </Word>
+</Vocabulary>
