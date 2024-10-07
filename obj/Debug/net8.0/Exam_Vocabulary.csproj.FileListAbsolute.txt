@@ -1,0 +1,14 @@
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.exe
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.dll.config
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.deps.json
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.runtimeconfig.json
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.dll
+C:\Users\Admin\Exam_Vocabulary\bin\Debug\net8.0\Exam_Vocabulary.pdb
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.sourcelink.json
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.dll
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\refint\Exam_Vocabulary.dll
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.pdb
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\Exam_Vocabulary.genruntimeconfig.cache
+C:\Users\Admin\Exam_Vocabulary\obj\Debug\net8.0\ref\Exam_Vocabulary.dll
