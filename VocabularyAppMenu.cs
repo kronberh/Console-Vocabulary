@@ -74,6 +74,7 @@ namespace n_VocabularyMenu
                         "                                               ████████████  ███████          ████████",
                         "                                                █████████████████████████████████████ ");
                     string logpass = ReadHiddenLine();
+
                     if (logpass == ConsoleKey.Escape.ToString())
                     {
                         Console.CursorVisible = true;
@@ -87,6 +88,15 @@ namespace n_VocabularyMenu
                     {
                         UserMenu();
                     }
+                }
+                catch (ArgumentOutOfRangeException)
+                {
+                    // Ловимо виняток, коли екран занадто вузький
+                    Console.Clear();
+                    Console.WriteLine("Please widen your console");
+                    Console.WriteLine("Press any key to continue...");
+                    Console.ReadKey();  // Чекаємо, поки користувач натисне клавішу
+                    continue; // Повторно виводимо меню
                 }
                 catch (n_ExceptionHandler.AccessViolationException ave)
                 {
@@ -1606,6 +1616,28 @@ namespace n_VocabularyMenu
                             Console.WriteLine($" \x1b[3;36m[Search: {desiredOption}]\x1b[0m");
                         }
                     }
+                    // Перевірка мінімальної ширини консолі
+                    int minimumConsoleWidth = 40;  // Мінімальна ширина для коректного відображення
+                    if (Console.WindowWidth < minimumConsoleWidth)
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Please widen your console to at least " + minimumConsoleWidth + " characters.");
+                        Console.WriteLine("Press any key to continue...");
+                        Console.ReadKey();
+                        return -1; // Повертаємось до попереднього меню або перезапускаємо цикл
+                    }
+
+                    // Перевірка ширини колонок
+                    cellWidth = (Console.WindowWidth - 8) / 4;
+                    if (cellWidth <= 0)
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Please widen your console to fit the content.");
+                        Console.WriteLine("Press any key to continue...");
+                        Console.ReadKey();
+                        return -1; // Повертаємось до попереднього меню або перезапускаємо цикл
+                    }
+
                     cellWidth = (Console.WindowWidth - 8) / 4;
                     Console.Write("   ╔");
                     Console.Write(new string('═', cellWidth));
